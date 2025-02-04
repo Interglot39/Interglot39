@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on an AI Startup based on Dept Collection.<br>👯 I’m looking to collaborate on open Source Projects<br>🌱 I’m currently learning Kubernetes and AWS<br>💬 Ask me about F1 and Cloud Tech<br>
+🔭 I’m currently working on an AI Startup based on Invoice Automation.<br>👯 I’m looking to collaborate on open Source Projects<br>🌱 I’m currently learning Kubernetes and AWS<br>💬 Ask me about F1 and Cloud Tech<br>
 
 
 ## 🌐 Socials:
